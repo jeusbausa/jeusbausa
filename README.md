@@ -15,4 +15,14 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=jeusbausa&icon=0&color=0)](https://visitcount.itsvg.in)
 
+###
+
+<div align="left">
+  <a href="https://open.spotify.com/user/wy2zth5lnjm4h80o6j936h2hh">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=wy2zth5lnjm4h80o6j936h2hh&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
